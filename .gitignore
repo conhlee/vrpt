@@ -36,6 +36,9 @@
 *.x86_64
 *.hex
 
+# PAK Files
+*.PAK
+
 # Debug files
 *.dSYM/
 *.su
@@ -50,3 +53,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VSCode files
+*.vscode/
